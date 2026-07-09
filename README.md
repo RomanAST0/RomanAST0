@@ -1,4 +1,4 @@
- Python | Mobile Apps | 1C
+Python | Mobile Apps | 1C
 
 ---
 
