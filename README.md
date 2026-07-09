@@ -1,17 +1,63 @@
-# Hi 👋, I'm Roman
+# Hi, I'm Roman
 
-### Developer
+### Developer | Python | Mobile Apps | 1C
 
-- 🔭 I'm currently working on **Python, Dart-Mobile, 1C.**
+---
 
-- 🌱 I'm currently learning **1C, Backend API servies and mobile apps.**
+- 🔭 Currently working on **Python Backend, Flutter Mobile, 1C Enterprise**
+- 🌱 Currently learning **1C, FastAPI, Docker, Microservices**
+- 💬 Ask me about **Python, Flutter, 1C, PostgreSQL**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Connect with Me
+
 <p align="left">
-<a href="https://github.com/RomanAST0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RomanAST0" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Romaneco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Romaneco/" height="30" width="40" /></a>
+  <a href="https://github.com/RomanAST0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Romaneco/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a></p>
+---
 
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,dart" alt="python,dart"/>
+  <img src="https://img.icons8.com/color/48/1c.png" alt="1C" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="flutter,androidstudio"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" alt="fastapi,postgres,docker"/>
+  <img src="https://skillicons.dev/icons?i=git,linux,bash" alt="git,linux,bash"/>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" alt="figma,photoshop,blender"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=selenium" alt="selenium"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RomanAST0&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAST0&theme=dark" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanAST0&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
+
+---
+
+## LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Romaneco?theme=dark&font=Karma)](https://leetcode.com/u/Romaneco/)
+
+---
+
+## Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RomanAST0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
