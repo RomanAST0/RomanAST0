@@ -1,6 +1,4 @@
-# Hi, I'm Roman
-
-### Developer | Python | Mobile Apps | 1C
+#| Python | Mobile Apps | 1C
 
 ---
 
