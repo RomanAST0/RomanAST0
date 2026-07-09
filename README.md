@@ -27,7 +27,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,dart" alt="python,dart"/>
-  <img src="https://img.icons8.com/color/48/1c.png" alt="1C" width="40" height="40"/>
+  <img src="![1C](https://skillicons.dev)" alt="1C" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="flutter,androidstudio"/>
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" alt="fastapi,postgres,docker"/>
   <img src="https://skillicons.dev/icons?i=git,linux,bash" alt="git,linux,bash"/>
